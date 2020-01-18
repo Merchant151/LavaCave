@@ -1,0 +1,5 @@
+/home/martimus/Github/LavaCave/LavaCave/LavaCave/bin/Debug/LavaCave.exe
+/home/martimus/Github/LavaCave/LavaCave/LavaCave/bin/Debug/LavaCave.pdb
+/home/martimus/Github/LavaCave/LavaCave/LavaCave/obj/x86/Debug/LavaCave.csprojAssemblyReference.cache
+/home/martimus/Github/LavaCave/LavaCave/LavaCave/obj/x86/Debug/LavaCave.exe
+/home/martimus/Github/LavaCave/LavaCave/LavaCave/obj/x86/Debug/LavaCave.pdb
