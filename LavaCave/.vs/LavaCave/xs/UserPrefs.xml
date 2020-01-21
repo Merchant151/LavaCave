@@ -1,16 +1,17 @@
 ﻿<Properties StartupConfiguration="{79532053-069E-40C9-AB3B-8AC6CF9C3655}|Default">
   <MonoDevelop.Ide.ItemProperties.LavaCave PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="LavaCave/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LavaCave/Board.cs">
     <Files>
-      <File FileName="LavaCave/Program.cs" Line="5" Column="20" />
-      <File FileName="LavaCave/Point.cs" Line="7" Column="10" />
+      <File FileName="LavaCave/Program.cs" Line="13" Column="1" />
+      <File FileName="LavaCave/Point.cs" Line="11" Column="13" />
+      <File FileName="LavaCave/Board.cs" Line="8" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="LavaCave" expanded="True">
             <Node name="LavaCave" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Board.cs" selected="True" />
             </Node>
           </Node>
         </State>
